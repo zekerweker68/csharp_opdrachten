@@ -12,6 +12,10 @@ namespace opdracht4
             {
                 Console.WriteLine("Het getal ligt binnen het bereik!");
             }
+            else
+            {
+                Console.WriteLine("Het getal ligt buiten het bereik!");
+            }
         }
     }
 }
