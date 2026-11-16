@@ -2,7 +2,7 @@
 
 namespace opdracht6
 {
-    internal class Program
+    internal class opdracht6
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,9 @@ namespace opdracht6
 
             int leeftijd = DateTime.Now.Year - geboortejaarnummer;
 
-            
+            Console.WriteLine("leeftijd = " + leeftijd);
+
+            Console.ReadLine();
         }
     }
 }
