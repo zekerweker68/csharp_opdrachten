@@ -9,6 +9,13 @@
             int drie = -56; // int want het is een getal boven -56
             double vier = 2001.99; // double want komma getal
             string vijf = "k1ngd0m"; // string want er zitten letters in de waarde
+
+            Console.WriteLine(een);
+            Console.WriteLine(twee);
+            Console.WriteLine(drie);
+            Console.WriteLine(vier);
+            Console.WriteLine(vijf);
+            Console.ReadLine();
         }
     }
 }
