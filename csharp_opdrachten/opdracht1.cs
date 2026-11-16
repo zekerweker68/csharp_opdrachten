@@ -8,6 +8,7 @@
             int Leeftijd = 20;
             Console.WriteLine(Naam);
             Console.WriteLine(Leeftijd);
+            Console.ReadLine();
         }
     }
 }
