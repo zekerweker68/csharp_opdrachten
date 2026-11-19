@@ -1,6 +1,6 @@
 ﻿namespace opdracht7
 {
-    internal class Program
+    internal class opdracht7
     {
         static void Main(string[] args)
         {
