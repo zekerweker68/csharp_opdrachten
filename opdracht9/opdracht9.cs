@@ -9,13 +9,13 @@
             switch (keuze)
             {
                 case 1:
-                    Console.WriteLine("€ 2,00");
+                    Console.WriteLine("2,00 euro");
                     break;
                 case 2:
-                    Console.WriteLine("€ 2,50");
+                    Console.WriteLine("2,50 euro");
                     break;
                 case 3:
-                    Console.WriteLine("€ 3,00");
+                    Console.WriteLine("3,00 euro");
                     break;
                 default:
                     Console.WriteLine("Ongeldige keuze");
