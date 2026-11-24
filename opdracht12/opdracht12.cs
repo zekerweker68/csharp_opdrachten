@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-          char a;
-            do
-            {
-                Console.WriteLine("Which one would you like to buy? A B C or D");
-                a = Char.ToUpper(Console.ReadKey().KeyChar);
-                Console.WriteLine();
-            } while (!"ABCD".Contains(a));
+            string[] naam = new string[5];
+            naam[0] = "Mehmet";
+            naam[1] = "Hakan";
+            naam[2] = "Johnny";
+            naam[3] = "Jeffrey";
+            naam[4] = "Geert";
 
+            Console.WriteLine(string.Join(", ", naam));
         }
     }
 }
