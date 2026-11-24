@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // aewdwdewd
         {
             string[] naam = new string[5];
             naam[0] = "Mehmet";
