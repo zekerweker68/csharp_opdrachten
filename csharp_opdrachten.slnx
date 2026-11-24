@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="csharp_opdrachten/opdracht1.csproj" />
   <Project Path="opdracht10/opdracht10.csproj" Id="6827f8df-59ca-4b46-9be1-75ca24bc35b7" />
+  <Project Path="opdracht11/opdracht11.csproj" Id="f517e6f1-99c2-4425-a717-7a0a45a0e9e3" />
+  <Project Path="opdracht12/opdracht12.csproj" Id="de2720b4-f863-4695-a214-d5c7de53f231" />
   <Project Path="opdracht2/opdracht2.csproj" Id="9c201046-8819-422a-94f0-04fe63a673e8" />
   <Project Path="Opdracht3/Opdracht3.csproj" Id="8f632d1a-361c-485f-afc0-b6df421f8eed" />
   <Project Path="opdracht4/opdracht4.csproj" Id="7123672d-6cd8-490f-a077-7b9b11671539" />
